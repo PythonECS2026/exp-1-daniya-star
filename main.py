@@ -1,5 +1,5 @@
 # AIM: Create a personalized greeting message
-# User enters name: Daniya 
+# User enters name: shibu
 # Coder: Daniya Khan 
 # Date: 14/2/26
 # Write your code here
