@@ -2,6 +2,7 @@
 # User enters name: shibu
 # Coder: Daniya Khan 
 # Date: 14/2/26
+
 # Write your code here
 name = input("Enter your name: ")
 age = input("Enter your age: ")
